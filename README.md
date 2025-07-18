@@ -1,13 +1,14 @@
 ## Hi there 👋 I’m Sushmitha Vijayakumar
 
-✨ Technologist • Creative Problem Solver • Lifelong Learner  
+✨ AI Enthusiast • Building AI-Powered Solutions • Creative Problem Solver  
 🎓 Master’s in Computer Science, California State University, Long Beach  
-💼 10+ Years in Full-Stack Software Engineering & AI/ML Development  
+💼 10+ Years in Full-Stack Software Engineering, Scalable Systems & Intelligent Automation  
+🔧 Ex-Temenos | Open to Internships (Summer 2026)
 
 ---
 
 - 🔭 **Currently Focused On:**  
-  Building AI Agents, LLM Applications, and Scalable Full-Stack Systems  
+  🤖 Building AI Agents, LLM Applications, and Scalable Full-Stack Systems  
   Exploring Human-Centered Technology and Intelligent System Design  
 
 - 🌱 **Learning & Growing In:**  
