@@ -21,7 +21,7 @@
   Software Architecture • Backend Engineering • Performance Engineering • AI Agent Workflows • Scaling Systems  
 
 - 📫 **Connect with Me:**  
-  (linkedin.com/in/sushmitha-vijayakumar-9b7139208)  
+  [LinkedIn](linkedin.com/in/sushmitha-vijayakumar-9b7139208)  
   Portfolio (Coming Soon)
 
 - 😄 **Pronouns:** She/Her  
