@@ -3,7 +3,9 @@
 ✨ AI Enthusiast • Building AI-Powered Solutions • Creative Problem Solver  
 🎓 Master’s in Computer Science, California State University, Long Beach  
 💼 10+ Years in Full-Stack Software Engineering, Scalable Systems & Intelligent Automation  
-🔧 Ex-Temenos | Open to Internships (Summer 2026)
+🔧 Ex-Temenos & Cognizant | Open to Internships (Summer 2026)
+
+Previously worked across fintech and insurance domains with Temenos and Cognizant, focusing on scalable systems, performance optimization, and application development.
 
 Let’s connect if you’re building what’s next - or hiring someone who is. 👩🏽‍💻✨  
 
