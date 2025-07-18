@@ -18,7 +18,7 @@
   AI/ML Projects • Human-AI Interaction • Wellness Tech • Open Source  
 
 - 💬 **Ask Me About:**  
-  Software Architecture • Backend Engineering • AI Agent Workflows • Scaling Systems  
+  Software Architecture • Backend Engineering • Performance Engineering • AI Agent Workflows • Scaling Systems  
 
 - 📫 **Connect with Me:**  
   [LinkedIn](https://www.linkedin.com/in/sushmitha-vijayakumar/)  
