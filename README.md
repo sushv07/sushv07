@@ -5,6 +5,8 @@
 💼 10+ Years in Full-Stack Software Engineering, Scalable Systems & Intelligent Automation  
 🔧 Ex-Temenos | Open to Internships (Summer 2026)
 
+Let’s connect if you’re building what’s next - or hiring someone who is. 👩🏽‍💻✨  
+
 ---
 
 - 🔭 **Currently Focused On:**  
