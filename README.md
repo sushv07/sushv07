@@ -25,7 +25,8 @@ Let’s connect if you’re building what’s next - or hiring someone who is. �
   Software Architecture • Backend Engineering • Performance Engineering • AI Agent Workflows • Scaling Systems  
 
 - 📫 **Connect with Me:**  
-  [LinkedIn](https://www.linkedin.com/in/sushmitha-vijayakumar-9b7139208)  
+  [LinkedIn](https://www.linkedin.com/in/sushmitha-vijayakumar-9b7139208)
+  [Medium Blog](https://sveo-ceo.medium.com/)
   Portfolio (Coming Soon)
 
 - 😄 **Pronouns:** She/Her  
