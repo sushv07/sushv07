@@ -42,7 +42,7 @@ An end-to-end AI workflow that transforms ideas into multimedia content.
 ## 🛠 Core Technologies
 
 ### 🤖 AI Systems
-Python • Agentic AI • LLM Applications • RAG • LangChain • OpenAI • Hugging Face
+Python • Agentic AI • LLM Applications • RAG • LangChain • OpenAI • Vector Search
 
 ### 💻 Software Engineering
 Java • Spring Boot • React • REST APIs • System Design • Performance Engineering
