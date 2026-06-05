@@ -39,9 +39,12 @@ An end-to-end AI workflow that transforms ideas into multimedia content.
 - Video generation pipeline
 - Cost-optimized hybrid AI architecture
 
+**Tech Stack**
+Python • LangChain • OpenAI • Coqui XTTS • Workflow Automation
 
 
-### AI Workflow & Automation Experiments
+
+### AI Agents & Workflow Experiments
 
 Exploring intelligent systems that combine reasoning, tool use, workflow orchestration, and automation.
 
