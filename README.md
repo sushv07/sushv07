@@ -1,4 +1,5 @@
 # Hi there 👋 I'm Sushmitha Vijayakumar
+M.S. Computer Science @ CSULB | 10+ Years Software Engineering | Building Agentic AI Systems
 
 ### Building AI Systems, Scalable Software, and Intelligent Workflows
 
@@ -40,17 +41,17 @@ An end-to-end AI workflow that transforms ideas into multimedia content.
 
 ## 🛠 Core Technologies
 
-### AI Systems
-Python • LangChain • ChromaDB • Ollama • OpenAI • Hugging Face
+### 🤖 AI Systems
+Python • Agentic AI • LLM Applications • RAG • LangChain • OpenAI • Hugging Face
 
-### Backend Engineering
-Java • Spring Boot • REST APIs • React
+### 💻 Software Engineering
+Java • Spring Boot • React • REST APIs • System Design • Performance Engineering
 
-### Cloud & Platform
-AWS • Azure • Kubernetes • Docker
+### ☁️ Cloud & Platform
+AWS • Azure • Kubernetes • Docker • CI/CD
 
-### Areas of Interest
-Agentic AI • RAG • AI Workflows • System Design • Software Architecture
+### 🎯 Focus Areas
+AI Workflows • Software Architecture • Intelligent Automation • Human-Centered AI
 
 ---
 
@@ -60,7 +61,7 @@ I'm passionate about building technology that makes complex processes simpler an
 
 Over the past decade, I've worked across fintech and insurance, designing and developing scalable software systems, performance engineering tools, automation platforms, mobile applications, and cloud-based solutions.
 
-Today, I'm combining that engineering foundation with modern AI technologies to build intelligent systems that can reason, retrieve information, orchestrate workflows, and help users make better decisions.
+Today, I’m combining that engineering foundation with modern AI technologies to build systems that can reason, retrieve information, orchestrate workflows, and support better decision-making.
 
 My current interests lie at the intersection of:
 
@@ -70,7 +71,7 @@ My current interests lie at the intersection of:
 - Software Architecture
 - Human-Centered AI
 - Intelligent Automation
-
+  
 ---
 
 ### AI Workflow & Automation Experiments
@@ -84,62 +85,6 @@ Exploring intelligent systems that combine reasoning, tool use, workflow orchest
 - LLM Evaluation
 - Workflow Observability
 - Human-in-the-Loop Systems
-
----
-
-## 🛠️ Technical Skills
-
-### AI & Machine Learning
-
-- Agentic AI
-- LLM Applications
-- Retrieval-Augmented Generation (RAG)
-- LangChain
-- Prompt Engineering
-- Hugging Face
-- OpenAI APIs
-- TensorFlow
-- scikit-learn
-- Workflow Orchestration
-
-### Software Engineering
-
-- Java
-- Python
-- Spring Boot
-- React.js
-- JavaScript
-- REST APIs
-- System Design
-- Performance Engineering
-- Backend Development
-
-### Cloud & Platform Engineering
-
-- AWS
-- Azure
-- Kubernetes
-- Docker
-- OpenShift
-- CI/CD
-- Git & GitHub
-
-### Mobile Development
-
-- Kotlin
-- Jetpack Compose
-- Swift
-- SwiftUI
-
----
-
-## 🌱 Areas I’m Deepening Expertise In
-
-- Advanced AI Engineering
-- AI Evaluation & Observability
-- Multi-Agent Systems
-- Cloud-Native AI Architectures
-- Human-AI Interaction
 
 ---
 
