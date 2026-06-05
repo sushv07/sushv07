@@ -39,6 +39,20 @@ An end-to-end AI workflow that transforms ideas into multimedia content.
 - Video generation pipeline
 - Cost-optimized hybrid AI architecture
 
+---
+
+### AI Workflow & Automation Experiments
+
+Exploring intelligent systems that combine reasoning, tool use, workflow orchestration, and automation.
+
+**Areas of Focus**
+- AI Agents
+- Multi-Step Reasoning Workflows
+- Tool Calling
+- LLM Evaluation
+- Workflow Observability
+- Human-in-the-Loop Systems
+
 ## 🛠 Core Technologies
 
 ### 🤖 AI Systems
@@ -71,20 +85,6 @@ My current interests lie at the intersection of:
 - Software Architecture
 - Human-Centered AI
 - Intelligent Automation
-  
----
-
-### AI Workflow & Automation Experiments
-
-Exploring intelligent systems that combine reasoning, tool use, workflow orchestration, and automation.
-
-**Areas of Focus**
-- AI Agents
-- Multi-Step Reasoning Workflows
-- Tool Calling
-- LLM Evaluation
-- Workflow Observability
-- Human-in-the-Loop Systems
 
 ---
 
