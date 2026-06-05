@@ -6,7 +6,37 @@
 💼 Software Engineer with 10+ years of experience building scalable applications, automation platforms, performance engineering solutions, and cloud-based systems  
 🤖 Currently focused on Agentic AI, LLM Applications, RAG Architectures, and Workflow-Driven AI Systems  
 🔧 Formerly at Temenos and Cognizant  
-🚀 Open to Software Engineering, AI Engineering, and Applied AI Internship Opportunities
+🚀 Open to AI Engineering, Applied AI, and Software Engineering Internship Opportunities
+
+## 🚀 Featured Projects
+
+### Graduate Center Agentic Assistant
+
+An AI-powered agentic assistant designed to support graduate student workflows and advising processes.
+
+**Highlights**
+- Multi-step workflow orchestration
+- State-machine-driven routing
+- Retrieval-Augmented Generation (RAG)
+- Source-backed responses
+- Local-first LLM deployment using Qwen and Ollama
+- Explainable and observable AI workflows
+
+**Tech Stack**
+Python • LangChain • ChromaDB • Ollama • Qwen • Streamlit
+
+---
+
+### Offline-First AI Content Pipeline
+
+An end-to-end AI workflow that transforms ideas into multimedia content.
+
+**Highlights**
+- Automated content generation
+- AI-assisted image creation
+- Voice synthesis integration
+- Video generation pipeline
+- Cost-optimized hybrid AI architecture
 
 ## 🛠 Core Technologies
 
@@ -40,41 +70,6 @@ My current interests lie at the intersection of:
 - Software Architecture
 - Human-Centered AI
 - Intelligent Automation
-
----
-
-## 🚀 Featured Projects
-
-### Graduate Center Agentic Assistant
-
-An AI-powered assistant designed to support graduate student workflows and advising processes.
-
-**Highlights**
-- Multi-step workflow orchestration
-- State-machine-driven routing
-- Retrieval-Augmented Generation (RAG)
-- Source-backed responses
-- Local-first LLM deployment using Qwen and Ollama
-- Explainable and observable AI workflows
-
-**Tech Stack**
-Python • LangChain • ChromaDB • Ollama • Qwen • Streamlit
-
----
-
-### Offline-First AI Content Pipeline
-
-An end-to-end AI workflow that transforms ideas into multimedia content.
-
-**Highlights**
-- Automated content generation
-- AI-assisted image creation
-- Voice synthesis integration
-- Video generation pipeline
-- Cost-optimized hybrid AI architecture
-
-**Tech Stack**
-Python • LangChain • OpenAI • Coqui XTTS • Automation Workflows
 
 ---
 
@@ -138,7 +133,7 @@ Exploring intelligent systems that combine reasoning, tool use, workflow orchest
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Areas I’m Deepening Expertise In
 
 - Advanced AI Engineering
 - AI Evaluation & Observability
