@@ -26,7 +26,7 @@ An AI-powered agentic assistant designed to support graduate student workflows a
 **Tech Stack**
 Python • LangChain • ChromaDB • Ollama • Qwen • Streamlit
 
----
+
 
 ### Offline-First AI Content Pipeline
 
@@ -39,7 +39,7 @@ An end-to-end AI workflow that transforms ideas into multimedia content.
 - Video generation pipeline
 - Cost-optimized hybrid AI architecture
 
----
+
 
 ### AI Workflow & Automation Experiments
 
@@ -52,6 +52,8 @@ Exploring intelligent systems that combine reasoning, tool use, workflow orchest
 - LLM Evaluation
 - Workflow Observability
 - Human-in-the-Loop Systems
+
+---
 
 ## 🛠 Core Technologies
 
