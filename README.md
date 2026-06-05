@@ -8,6 +8,20 @@
 🔧 Formerly at Temenos and Cognizant  
 🚀 Open to Software Engineering, AI Engineering, and Applied AI Internship Opportunities
 
+## 🛠 Core Technologies
+
+### AI Systems
+Python • LangChain • ChromaDB • Ollama • OpenAI • Hugging Face
+
+### Backend Engineering
+Java • Spring Boot • REST APIs • React
+
+### Cloud & Platform
+AWS • Azure • Kubernetes • Docker
+
+### Areas of Interest
+Agentic AI • RAG • AI Workflows • System Design • Software Architecture
+
 ---
 
 ## About Me
